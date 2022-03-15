@@ -36,5 +36,8 @@
 ##### [4.1] execute dags from MWAA UI
 ![plot](images/mwaa_dags_execute.png)
 
+##### [4.2] check the blueprint workflow runing status and make sure it's completed
+![plot](images/lakeformation_wf.png)
+
 #### [5] check Lake databases tables
 ![plot](images/lakeformation_tables.png)
