@@ -40,4 +40,15 @@
 ![plot](images/lakeformation_wf.png)
 
 #### [5] check Lake databases tables
-![plot](images/lakeformation_tables.png)
+##### [5.1] Raw Lake databases tables
+![plot](images/lakeformation_raw.png)
+
+##### [5.2] Processed Lake databases tables
+![plot](images/lakeformation_processed.png)
+
+#### [5] Athena Queries
+##### [5.1] query processed user table in processed catalog
+![plot](images/athena_users_processed.png)
+
+##### [5.2] query join tables of user and sales tables in processed catalog
+![plot](images/athena_users_sales_processed.png)

@@ -50,7 +50,7 @@ with DAG(
     )
 
     start_joining_job = AwsGlueJobOperator(
-            task_id=f"event_user_sales_combined_job", job_name=f"event_user_sales_combined_job"
+            task_id=f"user_sales_combined_job", job_name=f"user_sales_combined_job"
     )
 
 chain(
